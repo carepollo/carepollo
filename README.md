@@ -2,7 +2,7 @@
 
 **Badges**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carepollo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carepollo&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chickenface)](https://github.com/anuraghazra/github-readme-stats)
 
