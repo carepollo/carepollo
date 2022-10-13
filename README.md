@@ -9,7 +9,7 @@ I am a student software engineer, I love all the topics related to CS and Sci-Fi
 
 As a software engineer, I have experience 4 years of experience
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carepollo&theme=radical&show_icons=true&count_private=true&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carepollo&theme=radical&show_icons=true&count_private=true&hide=html,css,scss,javascript)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Data
 
