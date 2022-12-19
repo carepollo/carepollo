@@ -2,12 +2,11 @@
 
 [![wakatime](https://wakatime.com/badge/user/4a1c6e73-2d5a-4f23-ba8a-7a48312a07c7.svg)](https://wakatime.com/@4a1c6e73-2d5a-4f23-ba8a-7a48312a07c7)
 
+
 ### Stats 📈
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carepollo&theme=radical&show_icons=true&count_private=true&hide=html,css,scss,javascript)](https://github.com/anuraghazra/github-readme-stats)
 [![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=chickenface&theme=dark&hide=html,css,scss,json,xml)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- https://github-readme-stats.vercel.app/api/wakatime?username=nemchik&theme=dark&layout=compact&range=last_7_days -->
 
 
 ### Brief description 👤
@@ -56,10 +55,11 @@ s
 
 
 ### Contact 💬
-<!-- You can contact me on Discord: ![](https://dcbadge.vercel.app/api/shield/286975364545380352) -->
 You can contact me by:
+<!-- - ![](https://dcbadge.vercel.app/api/shield/286975364545380352) -->
 - ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 - ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+- ![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)
 
 You can talk to me in:
 - English
