@@ -6,8 +6,8 @@
 ### Stats 📈
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carepollo&theme=radical&show_icons=true&count_private=true&hide=html,css,scss,javascript)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carepollo&show_icons=true&theme=radical)
 [![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=chickenface&theme=dark&hide=html,css,scss,json,xml)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Brief description 👤
 
