@@ -4,7 +4,10 @@
 
 ### Stats 📈
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carepollo&theme=radical&show_icons=true&count_private=true&hide=html,css,scss,javascript)](https://github.com/anuraghazra/github-readme-stats) [![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=chickenface)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carepollo&theme=radical&show_icons=true&count_private=true&hide=html,css,scss,javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=chickenface&theme=dark&hide=html,css,scss,json,xml)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- https://github-readme-stats.vercel.app/api/wakatime?username=nemchik&theme=dark&layout=compact&range=last_7_days -->
 
 
 ### Brief description 👤
@@ -54,8 +57,9 @@ s
 
 ### Contact 💬
 <!-- You can contact me on Discord: ![](https://dcbadge.vercel.app/api/shield/286975364545380352) -->
-You can contact me on Discord: ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-Or by Email to: ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+You can contact me by:
+- ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+- ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 
 You can talk to me in:
 - English
