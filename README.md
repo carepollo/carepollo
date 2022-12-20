@@ -1,5 +1,4 @@
 ## About me
-
 [![wakatime](https://wakatime.com/badge/user/4a1c6e73-2d5a-4f23-ba8a-7a48312a07c7.svg)](https://wakatime.com/@4a1c6e73-2d5a-4f23-ba8a-7a48312a07c7)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
@@ -8,7 +7,6 @@
 
 
 ### Brief description 👤
-
 I am a Software Engineering student, I have experience in Web dev (Full-Stack) and I am interested in Transhumanism.
 
 I love all the topics related to CS, CE and Sci-Fi, I've been coding for approximately 4 years by now. I am still looking for a specific branch to specialize in. Linux (POP_OS) is my main and favorite OS.
@@ -18,22 +16,7 @@ You can talk to me in:
 - Spanish
 - Chinese simplified (text only)
 
-
-### Experience 🏢
-- Web dev (Full-Stack) (4 years)
-- Bot development 6 months)
-- Data analysis (3 months)
-- Mobile development (3 month)
-
-
-### Education 📖
-
-- Pregraduate degree in Software Engineering (4 years)
-- Continuate education diploma on Fullstack Developtment (6 months)
-
-
-### Technologies 🤖
-
+### Knowledge 🤖
 | Technology |    Type   |    Certified   |
 |------------|:----------|:---------------|
 | GoLang     | Language  |&#9746; Linkedin|
@@ -48,8 +31,19 @@ You can talk to me in:
 | MySQL      | Database  |&#9744;         |
 
 
-### Stats 📈
+### Experience 🏢
+- Web dev (Full-Stack) (4 years)
+- Bot development 6 months)
+- Data analysis (3 months)
+- Mobile development (3 month)
 
+
+### Education 📖
+- Pregraduate degree in Software Engineering (4 years)
+- Bootcamp on Fullstack Developtment (6 months)
+
+
+### Stats 📈
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carepollo&theme=radical&show_icons=true&count_private=true&hide=html,css,scss,javascript)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carepollo&show_icons=true&theme=radical)
-[![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=chickenface&theme=dark&hide=html,css,scss,json,xml&custom_title=Last+7+Days+Coding+Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=chickenface&theme=dark&hide=html,css,scss&custom_title=Last+7+Days+Coding+Stats)](https://github.com/anuraghazra/github-readme-stats)
