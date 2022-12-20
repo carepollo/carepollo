@@ -1,10 +1,6 @@
 ## About me
 [![wakatime](https://wakatime.com/badge/user/4a1c6e73-2d5a-4f23-ba8a-7a48312a07c7.svg)](https://wakatime.com/@4a1c6e73-2d5a-4f23-ba8a-7a48312a07c7)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
-![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)
-<!-- - ![](https://dcbadge.vercel.app/api/shield/286975364545380352) -->
-
+![](https://dcbadge.vercel.app/api/shield/286975364545380352)
 
 ### Brief description 👤
 I am a Software Engineering student, I have experience in Web dev (Full-Stack) and I am interested in Transhumanism.
@@ -16,19 +12,21 @@ You can talk to me in:
 - Spanish
 - Chinese simplified (text only)
 
+
 ### Knowledge 🤖
 | Technology |    Type   |    Certified   |
 |------------|:----------|:---------------|
-| GoLang     | Language  |&#9746; Linkedin|
-| TypeScript | Language  |&#9744;         |
-| Python     | Language  |&#9744;         |
-| PHP        | Language  |&#9744;         |
-| NestJS     | Framework |&#9744;         |
-| Angular    | Framework |&#9744;         |
-| Sheweny    | Framework |&#9744;         |
-| Ionic      | Framework |&#9744;         |
-| MongoDB    | Database  |&#9744;         |
-| MySQL      | Database  |&#9744;         |
+|![](go.svg)| Language  |&#9746; Linkedin|
+|![](ts.svg)| Language  |&#9744;         |
+|![](py.svg)| Language  |&#9744;         |
+|![](ph.svg)| Language  |&#9744;         |
+|![](ne.svg)| Framework |&#9744;         |
+|![](an.svg)| Framework |&#9744;         |
+|Sheweny    | Framework |&#9744;         |
+|![](an.svg)| Framework |&#9744;         |
+|![](mo.svg)| Database  |&#9744;         |
+|![](my.svg)| Database  |&#9744;         |
+
 
 
 ### Experience 🏢
