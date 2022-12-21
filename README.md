@@ -14,18 +14,17 @@ You can talk to me in:
 
 
 ### Knowledge 🤖
-| Technology |    Type   |    Certified   |
-|------------|:----------|:---------------|
-|![](go.svg)| Language  |&#9746; Linkedin|
-|![](ts.svg)| Language  |&#9744;         |
-|![](py.svg)| Language  |&#9744;         |
-|![](ph.svg)| Language  |&#9744;         |
-|![](ne.svg)| Framework |&#9744;         |
-|![](an.svg)| Framework |&#9744;         |
-|Sheweny    | Framework |&#9744;         |
-|![](an.svg)| Framework |&#9744;         |
-|![](mo.svg)| Database  |&#9744;         |
-|![](my.svg)| Database  |&#9744;         |
+|    Technology    |    Type   |    Certified   |
+|------------------|:----------|:---------------|
+|![](assets/go.svg)| Language  |&#9746; Linkedin|
+|![](assets/ts.svg)| Language  |&#9744;         |
+|![](assets/py.svg)| Language  |&#9744;         |
+|![](assets/ph.svg)| Language  |&#9744;         |
+|![](assets/ne.svg)| Framework |&#9744;         |
+|![](assets/an.svg)| Framework |&#9744;         |
+|![](assets/io.svg)| Framework |&#9744;         |
+|![](assets/mo.svg)| Database  |&#9744;         |
+|![](assets/my.svg)| Database  |&#9744;         |
 
 
 
