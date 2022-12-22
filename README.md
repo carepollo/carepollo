@@ -1,6 +1,7 @@
 ## About me
 [![wakatime](https://wakatime.com/badge/user/4a1c6e73-2d5a-4f23-ba8a-7a48312a07c7.svg)](https://wakatime.com/@4a1c6e73-2d5a-4f23-ba8a-7a48312a07c7)
-![](https://dcbadge.vercel.app/api/shield/286975364545380352)
+[![discord](https://img.shields.io/badge/discord-online-brightgreen.svg)](https://discord.com/invite/e52RFh7Cg2)
+<!-- ![](https://dcbadge.vercel.app/api/shield/286975364545380352) -->
 
 ### Brief description 👤
 I am a Software Engineering student, I have experience in Web dev (Full-Stack) and I am interested in Transhumanism.
@@ -27,10 +28,9 @@ You can talk to me in:
 |![](assets/my.svg)| Database  |&#9744;         |
 
 
-
 ### Experience 🏢
 - Web dev (Full-Stack) (4 years)
-- Bot development 6 months)
+- Bot development (6 months)
 - Data analysis (3 months)
 - Mobile development (3 month)
 
