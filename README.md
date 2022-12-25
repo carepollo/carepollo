@@ -32,7 +32,8 @@ You can talk to me in:
 - Web dev (Full-Stack) (4 years)
 - Bot development (6 months)
 - Data analysis (3 months)
-- Mobile development (3 month)
+- Mobile development (3 months)
+- Embedded software development (3 months)
 
 
 ### Education 📖
