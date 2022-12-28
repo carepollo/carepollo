@@ -25,7 +25,6 @@ You can talk to me in:
 |![](assets/ne.svg)|Framework  |&#9744;         |
 |![](assets/an.svg)|Framework  |&#9744;         |
 |![](assets/io.svg)|Framework  |&#9744;         |
-|![](assets/pa.svg)|Library    |&#9744;         |
 |![](assets/mo.svg)|Database   |&#9744;         |
 |![](assets/my.svg)|Database   |&#9744;         |
 |![](assets/ar.svg)|Board      |&#9744;         |
@@ -47,4 +46,4 @@ You can talk to me in:
 ### Stats 📈
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carepollo&theme=radical&show_icons=true&count_private=true&hide=html,css,scss,javascript)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carepollo&show_icons=true&theme=radical)
-[![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=chickenface&theme=dark&custom_title=Last+7+Days+Coding+Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=chickenface&theme=dark&custom_title=Last+7+Days+Coding+Stats&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
