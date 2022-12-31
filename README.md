@@ -25,6 +25,7 @@ You can talk to me in:
 |![](assets/ne.svg)|Framework  |&#9744;         |
 |![](assets/an.svg)|Framework  |&#9744;         |
 |![](assets/io.svg)|Framework  |&#9744;         |
+|![](assets/pa.svg)|Library    |&#9744;         |
 |![](assets/mo.svg)|Database   |&#9744;         |
 |![](assets/my.svg)|Database   |&#9744;         |
 |![](assets/ar.svg)|Board      |&#9744;         |
