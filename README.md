@@ -7,7 +7,7 @@
 ### Brief description 👤
 I am a Software Engineering student, I have experience in Web dev (Full-Stack) and I am interested in Transhumanism.
 
-I love all the topics related to CS, CE and Sci-Fi, I've been coding for approximately 4 years by now. I am still looking for a specific branch to specialize in. Linux (POP_OS) is my main and favorite OS.
+I love all the topics related to CS, CE and Sci-Fi, I've been coding for approximately 4 years by now. I am still looking for a specific branch to specialize in. Linux (current distro: POP_OS) is my main and favorite OS.
 
 You can talk to me in:
 - English
@@ -45,6 +45,6 @@ You can talk to me in:
 
 
 ### Stats 📈
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carepollo&theme=radical&show_icons=true&count_private=true&hide=html,css,scss,javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carepollo&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carepollo&show_icons=true&theme=radical)
-[![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=chickenface&theme=dark&custom_title=Last+7+Days+Coding+Stats&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
+[![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=chickenface&theme=dark&custom_title=Last+7+Days+Coding+Stats&range=last_7_days&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
