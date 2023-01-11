@@ -32,7 +32,7 @@ You can talk to me in:
 
 
 ### Experience 🏢
-- Web development (Full-Stack) (4 years)
+- Web development Full-Stack (4 years)
 - Bot development (6 months)
 - Data analysis (3 months)
 - Mobile development (3 months)
@@ -41,10 +41,10 @@ You can talk to me in:
 
 ### Education 📖
 - Pregraduate degree in Software Engineering (4 years)
-- Bootcamp on Fullstack Web Development (6 months)
-
+- Bootcamp on Full-Stack Web development (6 months)
+<!-- - Specialization diploma on Mathematics for Machine Learning (6 months) -->
 
 ### Stats 📈
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carepollo&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carepollo&show_icons=true&theme=radical)
-[![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=chickenface&theme=dark&custom_title=Last+7+Days+Coding+Stats&range=last_7_days&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=chickenface&theme=radical&custom_title=Last+7+Days+Coding+Stats&range=last_7_days&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
