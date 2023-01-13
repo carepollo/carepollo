@@ -45,6 +45,8 @@ You can talk to me in:
 <!-- - Specialization diploma on Mathematics for Machine Learning (6 months) -->
 
 ### Stats 📈
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carepollo&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carepollo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carepollo&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=carepollo&show_icons=true&theme=radical)
 [![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=chickenface&theme=radical&custom_title=Last+7+Days+Coding+Stats&range=last_7_days&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- in case of potential future breaks on api replace the current and use this: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app -->
