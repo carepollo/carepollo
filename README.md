@@ -7,7 +7,7 @@
 ### Brief description 👤
 I am a Software Engineering student, I have experience in Web dev (Full-Stack) and I am interested in Transhumanism.
 
-I love all the topics related to CS, CE and Sci-Fi, I've been coding for approximately 4 years by now. I am still looking for a specific branch to specialize in. Linux (current distro: POP_OS) is my main and favorite OS.
+I love all the topics related to CS, CE and Sci-Fi, I've been coding for approximately 4 years by now. I am still looking for a specific branch to specialize in. Linux (current distro: EndeavourOS) is my main and favorite OS.
 
 You can talk to me in:
 - English
@@ -42,11 +42,12 @@ You can talk to me in:
 ### Education 📖
 - Pregraduate degree in Software Engineering (4 years)
 - Bootcamp on Full-Stack Web development (6 months)
-<!-- - Specialization diploma on Mathematics for Machine Learning (6 months) -->
+- Specialization course on Mathematics for Machine Learning (6 months)
 
 ### Stats 📈
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carepollo&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![ChickenFace's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=carepollo&show_icons=true&theme=radical)
-[![Code Time](https://github-readme-stats.zohan.tech/api/wakatime?username=chickenface&theme=radical&custom_title=Last+7+Days+Coding+Stats&range=last_7_days&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=chickenface&theme=radical&custom_title=Last+7+Days+Coding+Stats&range=last_7_days&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- in case of potential future breaks on api replace the current and use this: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app or https://github-readme-stats.vercel.app -->
+<!-- https://github-readme-stats-git-fixwaka-605c1a-github-readme-stats-team.vercel.app -->
