@@ -16,19 +16,19 @@ You can talk to me in:
 
 
 ### Knowledge 🤖
-|    Technology    |    Type   |    Certified   |
-|------------------|:----------|:---------------|
-|![](assets/go.svg)|Language   |&#9746; Linkedin|
-|![](assets/ts.svg)|Language   |&#9744;         |
-|![](assets/py.svg)|Language   |&#9744;         |
-|![](assets/ph.svg)|Language   |&#9744;         |
-|![](assets/ne.svg)|Framework  |&#9744;         |
-|![](assets/an.svg)|Framework  |&#9744;         |
-|![](assets/io.svg)|Framework  |&#9744;         |
-|![](assets/pa.svg)|Library    |&#9744;         |
-|![](assets/mo.svg)|Database   |&#9744;         |
-|![](assets/my.svg)|Database   |&#9744;         |
-|![](assets/ar.svg)|Board      |&#9744;         |
+|    Technology    |    Type   |    Certified    |
+|------------------|:----------|:----------------|
+|![](assets/go.svg)|Language   |&#9746;  LinkedIn|
+|![](assets/ts.svg)|Language   |&#9744;          |
+|![](assets/py.svg)|Language   |&#9746; HackerRank|
+|![](assets/ph.svg)|Language   |&#9744;          |
+|![](assets/ne.svg)|Framework  |&#9744;          |
+|![](assets/an.svg)|Framework  |&#9744;          |
+|![](assets/io.svg)|Framework  |&#9744;          |
+|![](assets/pa.svg)|Library    |&#9744;          |
+|![](assets/mo.svg)|Database   |&#9746;  LinkedIn|
+|![](assets/my.svg)|Database   |&#9746;  LinkedIn|
+|![](assets/ar.svg)|Board      |&#9744;          |
 
 
 ### Experience 🏢
@@ -43,6 +43,8 @@ You can talk to me in:
 - Pregraduate degree in Software Engineering (4 years)
 - Bootcamp on Full-Stack Web development (6 months)
 - Specialization course on Mathematics for Machine Learning (6 months)
+<!-- - Specialization course on Bioinformatics (9 months) -->
+
 
 ### Stats 📈
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carepollo&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
