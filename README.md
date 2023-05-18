@@ -31,7 +31,7 @@ You can talk to me in:
 
 
 ## Experience 🏢
-- Web development Full-Stack (3 years)
+- Web development Full-Stack (4 years)
 - Bot development (6 months)
 - Data analysis (3 months)
 - Mobile development (3 months)
