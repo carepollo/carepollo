@@ -39,7 +39,7 @@ You can talk to me in:
 
 
 ## Education 📖
-- Pregraduate degree in Software Engineering (4 years)
+- Pregraduate degree in Software Engineering (2 years)
 - Course on Full-Stack Web development (6 months)
 <!-- - Specialization course on Mathematics for Machine Learning (6 months) -->
 <!-- - Specialization course on Bioinformatics (9 months) -->
