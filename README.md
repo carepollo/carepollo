@@ -1,6 +1,7 @@
 ## About me ✋
 [![wakatime](https://wakatime.com/badge/user/4a1c6e73-2d5a-4f23-ba8a-7a48312a07c7.svg)](https://wakatime.com/@4a1c6e73-2d5a-4f23-ba8a-7a48312a07c7)
 [![discord](https://img.shields.io/badge/discord-online-brightgreen.svg)](https://discord.gg/kstQ9Jrwn5)
+#[![element](https://img.shields.io/badge/element-online-brightgreen)](https://app.element.io)
 
 
 ## Brief description 👤
