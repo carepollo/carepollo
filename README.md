@@ -1,7 +1,7 @@
 ## About me ✋
 [![wakatime](https://wakatime.com/badge/user/4a1c6e73-2d5a-4f23-ba8a-7a48312a07c7.svg)](https://wakatime.com/@4a1c6e73-2d5a-4f23-ba8a-7a48312a07c7)
 [![discord](https://img.shields.io/badge/discord-online-brightgreen.svg)](https://discord.gg/kstQ9Jrwn5)
-#[![element](https://img.shields.io/badge/element-online-brightgreen)](https://app.element.io)
+<!-- [![element](https://img.shields.io/badge/element-online-brightgreen)](https://app.element.io) -->
 
 
 ## Brief description 👤
@@ -32,7 +32,7 @@ You can talk to me in:
 
 
 ## Experience 🏢
-- Web development Full-Stack (4 years)
+- Web development Full-Stack (1.5 years)
 - Bot development (6 months)
 - Data analysis (3 months)
 - Mobile development (3 months)
@@ -40,7 +40,7 @@ You can talk to me in:
 
 
 ## Education 📖
-- Pregraduate degree in Software Engineering (2 years)
+- Pregraduate degree in Software Engineering (3.5 years)
 - Course on Full-Stack Web development (6 months)
 <!-- - Specialization course on Mathematics for Machine Learning (6 months) -->
 <!-- - Specialization course on Bioinformatics (9 months) -->
