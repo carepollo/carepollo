@@ -24,11 +24,9 @@ You can talk to me in:
 |![](assets/ph.svg)|Language   |&#9744;          |
 |![](assets/ne.svg)|Framework  |&#9744;          |
 |![](assets/an.svg)|Framework  |&#9744;          |
-|![](assets/io.svg)|Framework  |&#9744;          |
 |![](assets/pa.svg)|Library    |&#9744;          |
 |![](assets/mo.svg)|Database   |&#9746;  LinkedIn|
 |![](assets/my.svg)|Database   |&#9746;  LinkedIn|
-|![](assets/ar.svg)|Board      |&#9744;          |
 
 
 ## Experience 🏢
@@ -53,6 +51,4 @@ You can talk to me in:
 
 
 ## Support 🍲
-If you like my work and want to support me, this is my Monero wallet address:
-85XAfjoQv2zUS4LcB7UeaEGTUKY5n1WeA5eU3fgXKKGKiommHuJuzgLZGmszG42QQ5iwUfHopUABRCo6qMCeRCWEVAwfmK7
-
+If you like my work and want to support me this is my [wallet address](image.png):
