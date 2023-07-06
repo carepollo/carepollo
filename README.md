@@ -7,7 +7,7 @@
 ## Brief description 👤
 I am a Software Engineering student, I have experience in Web dev (Full-Stack) and I am interested in Transhumanism.
 
-I love all the topics related to CS, CE and Sci-Fi, I've been coding for approximately 4 years by now. I am still looking for a specific branch to specialize in. Linux (current distro: EndeavourOS) is my main and favorite OS.
+I love all the topics related to CS, CE and Sci-Fi, I've been coding for approximately 4 years by now. I am still looking for a specific branch to specialize in. Linux _(current distro: EndeavourOS)_ is my main and favorite OS.
 
 You can talk to me in:
 - English
@@ -51,4 +51,4 @@ You can talk to me in:
 
 
 ## Support 🍲
-If you like my work and want to support me this is my [wallet address](image.png):
+If you like my work and want to support me this is my [wallet address](image.png).
