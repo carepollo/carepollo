@@ -16,17 +16,16 @@ You can talk to me in:
 
 
 ## Knowledge ⚙️
-|    Technology    |    Type   |    Certified    |
-|------------------|:----------|:----------------|
-|![](assets/go.svg)|Language   |&#9746;  LinkedIn|
-|![](assets/ts.svg)|Language   |&#9744;          |
-|![](assets/py.svg)|Language   |&#9746; HackerRank|
-|![](assets/ph.svg)|Language   |&#9744;          |
-|![](assets/ne.svg)|Framework  |&#9744;          |
-|![](assets/an.svg)|Framework  |&#9744;          |
-|![](assets/pa.svg)|Library    |&#9744;          |
-|![](assets/mo.svg)|Database   |&#9746;  LinkedIn|
-|![](assets/my.svg)|Database   |&#9746;  LinkedIn|
+|          Technology          |      Type      |      Certified     |
+|------------------------------|:---------------|:-------------------|
+|![](assets/go.svg)            |Language        |&#9746;     LinkedIn|
+|![](assets/typescript.svg)    |Language        |&#9744;             |
+|![](assets/python.svg)        |Language        |&#9746;   HackerRank|
+|![](assets/php.svg)           |Language        |&#9744;             |
+|![](assets/nestjs.svg)        |Framework       |&#9744;             |
+|![](assets/angular.svg)       |Framework       |&#9744;             |
+|![](assets/mongodb.svg)       |Database        |&#9746;     LinkedIn|
+|![](assets/mysql.svg)         |Database        |&#9746;     LinkedIn|
 
 
 ## Experience 🏢
