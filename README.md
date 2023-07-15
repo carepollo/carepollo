@@ -21,16 +21,21 @@ You can talk to me in:
 |![](assets/go.svg)            |Language        |&#9746;     LinkedIn|
 |![](assets/typescript.svg)    |Language        |&#9744;             |
 |![](assets/python.svg)        |Language        |&#9746;   HackerRank|
+|![](assets/java.svg)          |Language        |&#9744;             |
 |![](assets/php.svg)           |Language        |&#9744;             |
 |![](assets/nestjs.svg)        |Framework       |&#9744;             |
 |![](assets/angular.svg)       |Framework       |&#9744;             |
-|![](assets/mongodb.svg)       |Database        |&#9746;     LinkedIn|
+|![](assets/spring.svg)        |Framework       |&#9744;             |
+|![](assets/flask.svg)         |Library         |&#9744;             |
 |![](assets/mysql.svg)         |Database        |&#9746;     LinkedIn|
+|![](assets/mongodb.svg)       |Database        |&#9746;     LinkedIn|
+|![](assets/graphql.svg)       |Database        |&#9744;             |
+|![](assets/surrealdb.svg)     |Database        |&#9744;             |
 |![](assets/redis.svg)         |Caching         |&#9744;             |
 
 
 ## Experience 🏢
-- Web development Full-Stack (1.5 years)
+- Web development Full-Stack (4 years)
 - Bot development (6 months)
 - Data analysis (3 months)
 - Mobile development (3 months)
@@ -40,6 +45,7 @@ You can talk to me in:
 ## Education 📖
 - Pregraduate degree in Software Engineering (3.5 years)
 - Course on Full-Stack Web development (6 months)
+- Course on Artificial Intelligence (3 months)
 <!-- - Specialization course on Mathematics for Machine Learning (6 months) -->
 <!-- - Specialization course on Bioinformatics (9 months) -->
 
@@ -51,4 +57,4 @@ You can talk to me in:
 
 
 ## Support 🍲
-If you like my work and want to support me this is my [wallet address](image.png).
+If you like my work and want to support me, this is my [wallet address](image.png).
