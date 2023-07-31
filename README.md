@@ -1,7 +1,6 @@
 ## About me ✋
 [![wakatime](https://wakatime.com/badge/user/4a1c6e73-2d5a-4f23-ba8a-7a48312a07c7.svg)](https://wakatime.com/@4a1c6e73-2d5a-4f23-ba8a-7a48312a07c7)
-[![discord](https://img.shields.io/badge/discord-online-brightgreen.svg)](https://discord.gg/kstQ9Jrwn5)
-<!-- [![element](https://img.shields.io/badge/element-online-brightgreen)](https://app.element.io) -->
+[![element](https://img.shields.io/badge/element-online-brightgreen)](https://matrix.to/#/!zGhrDkBUgGMGOZlPKt:matrix.org?via=matrix.org)
 
 
 ## Brief description 👤
@@ -25,12 +24,12 @@ You can talk to me in:
 |![](assets/php.svg)           |Language        |&#9744;             |
 |![](assets/nestjs.svg)        |Framework       |&#9744;             |
 |![](assets/angular.svg)       |Framework       |&#9744;             |
-|![](assets/spring.svg)        |Framework       |&#9744;             |
 |![](assets/flask.svg)         |Library         |&#9744;             |
-|![](assets/mysql.svg)         |Database        |&#9746;     LinkedIn|
+|![](assets/spring.svg)        |Framework       |&#9744;             |
 |![](assets/mongodb.svg)       |Database        |&#9746;     LinkedIn|
-|![](assets/graphql.svg)       |Database        |&#9744;             |
+|![](assets/mysql.svg)         |Database        |&#9746;     LinkedIn|
 |![](assets/surrealdb.svg)     |Database        |&#9744;             |
+|![](assets/dgraph.svg)        |Database        |&#9744;             |
 |![](assets/redis.svg)         |Caching         |&#9744;             |
 
 
@@ -43,9 +42,9 @@ You can talk to me in:
 
 
 ## Education 📖
-- Pregraduate degree in Software Engineering (3.5 years)
-- Course on Full-Stack Web development (6 months)
-- Course on Artificial Intelligence (3 months)
+- Undergraduate degree in Software Engineering (3.5 years)
+- Diploma course in Full-Stack Web development (6 months)
+- Diploma course in Artificial Intelligence (3 months)
 <!-- - Specialization course on Mathematics for Machine Learning (6 months) -->
 <!-- - Specialization course on Bioinformatics (9 months) -->
 
