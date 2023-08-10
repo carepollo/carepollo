@@ -20,12 +20,10 @@ You can talk to me in:
 |![](assets/go.svg)            |Language        |&#9746;     LinkedIn|
 |![](assets/typescript.svg)    |Language        |&#9744;             |
 |![](assets/python.svg)        |Language        |&#9746;   HackerRank|
-|![](assets/java.svg)          |Language        |&#9744;             |
 |![](assets/php.svg)           |Language        |&#9744;             |
 |![](assets/nestjs.svg)        |Framework       |&#9744;             |
 |![](assets/angular.svg)       |Framework       |&#9744;             |
 |![](assets/flask.svg)         |Library         |&#9744;             |
-|![](assets/spring.svg)        |Framework       |&#9744;             |
 |![](assets/mongodb.svg)       |Database        |&#9746;     LinkedIn|
 |![](assets/mysql.svg)         |Database        |&#9746;     LinkedIn|
 |![](assets/surrealdb.svg)     |Database        |&#9744;             |
