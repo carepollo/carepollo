@@ -1,6 +1,7 @@
 ## About me ✋
 [![wakatime](https://wakatime.com/badge/user/4a1c6e73-2d5a-4f23-ba8a-7a48312a07c7.svg)](https://wakatime.com/@4a1c6e73-2d5a-4f23-ba8a-7a48312a07c7)
 [![element](https://img.shields.io/badge/element-online-brightgreen)](https://matrix.to/#/!zGhrDkBUgGMGOZlPKt:matrix.org?via=matrix.org)
+<!-- [![discord](https://img.shileds.io/badge/discord-online-blue)](https://discord.com/app) -->
 
 
 ## Brief description 👤
@@ -12,24 +13,17 @@ You can talk to me in:
 - English
 - Spanish
 - Chinese simplified (text only)
+<!-- - German (text only) -->
 
 
 ## Knowledge ⚙️
-|          Technology          |      Type      |      Certified     |
-|------------------------------|:---------------|:-------------------|
-|![](assets/go.svg)            |Language        |&#9746;     LinkedIn|
-|![](assets/typescript.svg)    |Language        |&#9744;             |
-|![](assets/python.svg)        |Language        |&#9746;   HackerRank|
-|![](assets/php.svg)           |Language        |&#9744;             |
-|![](assets/nestjs.svg)        |Framework       |&#9744;             |
-|![](assets/angular.svg)       |Framework       |&#9744;             |
-|![](assets/flask.svg)         |Library         |&#9744;             |
-|![](assets/mongodb.svg)       |Database        |&#9746;     LinkedIn|
-|![](assets/mysql.svg)         |Database        |&#9746;     LinkedIn|
-|![](assets/surrealdb.svg)     |Database        |&#9744;             |
-|![](assets/dgraph.svg)        |Database        |&#9744;             |
-|![](assets/redis.svg)         |Caching         |&#9744;             |
-
+|          Languages          |        Frameworks       |       Libraries       |         Databases        |        Others         |
+|:---------------------------:|:-----------------------:|:---------------------:|:------------------------:|:---------------------:|
+|![](assets/go.svg)           |![](assets/nestjs.svg)   |![](assets/flask.svg)  |![](assets/mongodb.svg)   |![](assets/redis.svg)  |
+|![](assets/typescript.svg)   |![](assets/angular.svg)  |                       |![](assets/mysql.svg)     |                       |
+|![](assets/python.svg)       |![](assets/spring.svg)   |                       |![](assets/surrealdb.svg) |                       |
+|![](assets/java.svg)         |                         |                       |![](assets/dgraph.svg)    |                       |
+|![](assets/php.svg)          |                         |                       |                          |                       |
 
 ## Experience 🏢
 - Web development Full-Stack (4 years)
@@ -40,6 +34,7 @@ You can talk to me in:
 
 
 ## Education 📖
+<!-- - Postgraduate M.Sc.in Bioinformatics (3 years) -->
 - Undergraduate degree in Software Engineering (3.5 years)
 - Diploma course in Full-Stack Web development (6 months)
 - Diploma course in Artificial Intelligence (3 months)
