@@ -22,7 +22,7 @@ You can talk to me in:
 |![](assets/go.svg)           |![](assets/nestjs.svg)   |![](assets/flask.svg)  |![](assets/mongodb.svg)   |![](assets/redis.svg)  |
 |![](assets/typescript.svg)   |![](assets/angular.svg)  |![](assets/pandas.svg) |![](assets/mysql.svg)     |                       |
 |![](assets/python.svg)       |![](assets/spring.svg)   |                       |![](assets/surrealdb.svg) |                       |
-|![](assets/java.svg)         |                         |                       |![](assets/dgraph.svg)    |                       |
+|![](assets/java.svg)         |                         |                       |![](assets/neo4j.svg)     |                       |
 |![](assets/php.svg)          |                         |                       |                          |                       |
 
 ## Experience 🏢
