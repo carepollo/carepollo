@@ -1,13 +1,12 @@
 ## About me ✋
 [![wakatime](https://wakatime.com/badge/user/4a1c6e73-2d5a-4f23-ba8a-7a48312a07c7.svg)](https://wakatime.com/@4a1c6e73-2d5a-4f23-ba8a-7a48312a07c7)
 [![element](https://img.shields.io/badge/element-online-brightgreen)](https://matrix.to/#/!zGhrDkBUgGMGOZlPKt:matrix.org?via=matrix.org)
-<!-- [![discord](https://img.shileds.io/badge/discord-online-blue)](https://discord.com/app) -->
 
 
 ## Brief description 👤
 I am a Software Engineering student, I have experience in Web dev (Full-Stack) and I am interested in Transhumanism.
 
-I love all the topics related to SE, CS, CE, Sci-Fi and FOSS, I've been coding for approximately 4 years by now. I am still looking for a specific branch to specialize in. Linux is my main and favorite OS.
+I love all the topics related to SE, CS, CE, Sci-Fi and FOSS, I've been coding for approximately 5 years by now. I am still looking for a specific branch to specialize in. Linux is my main and favorite OS.
 
 You can talk to me in:
 - English
@@ -26,20 +25,21 @@ You can talk to me in:
 |![](assets/php.svg)          |                         |                       |                          |                       |
 
 ## Experience 🏢
-- Web development Full-Stack (4 years)
+- Web development Full-Stack (5 years)
 - Bot development (6 months)
 - Data analysis (3 months)
 - Mobile development (3 months)
 - Embedded software development (3 months)
+<!-- - Bioengineering (?) -->
 
 
 ## Education 📖
-<!-- - Postgraduate M.Sc.in Bioinformatics (3 years) -->
-- Undergraduate degree in Software Engineering (3.5 years)
+<!-- - Postgraduate MSc.in Bionics Engineering (3 years) -->
+- Undergraduate degree in Software Engineering (4 years)
 - Diploma course in Full-Stack Web development (6 months)
 - Diploma course in Artificial Intelligence (3 months)
 <!-- - Specialization course on Mathematics for Machine Learning (6 months) -->
-<!-- - Specialization course on Bioinformatics (9 months) -->
+<!-- - Specialization course on Bioinformatics (1 year) -->
 
 
 ## Stats 📈
