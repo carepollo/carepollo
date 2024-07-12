@@ -4,9 +4,9 @@
 
 
 ## Brief description 👤
-I am a Software Engineering student, I have experience in Web dev (Full-Stack) and I am interested in Transhumanism.
+I am a Software Engineer with experience in Web dev (Full-Stack) and I am interested in Transhumanism.
 
-I love all the topics related to SE, CS, CE, Sci-Fi and FOSS, I've been coding for approximately 5 years by now. I am still looking for a specific branch to specialize in. Linux is my main and favorite OS.
+I love all the topics related to SE, CS, CE, Sci-Fi and FOSS, I've been coding for approximately 6 years by now. I looking forward to specialize in low-level programming and topics related to Bioengineering. Linux is my main and favorite OS.
 
 You can talk to me in:
 - English
@@ -25,12 +25,11 @@ You can talk to me in:
 |![](assets/php.svg)          |                         |                       |                          |                       |
 
 ## Experience 🏢
-- Web development Full-Stack (5 years)
+- Web development Full-Stack (6 years)
 - Bot development (6 months)
 - Data analysis (3 months)
 - Mobile development (3 months)
 - Embedded software development (3 months)
-<!-- - Bioengineering (?) -->
 
 
 ## Education 📖
@@ -38,8 +37,8 @@ You can talk to me in:
 - Undergraduate degree in Software Engineering (4 years)
 - Diploma course in Full-Stack Web development (6 months)
 - Diploma course in Artificial Intelligence (3 months)
+- Specialization in Bioinformatics (1 year)
 <!-- - Specialization course on Mathematics for Machine Learning (6 months) -->
-<!-- - Specialization course on Bioinformatics (1 year) -->
 
 
 ## Stats 📈
