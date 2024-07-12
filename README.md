@@ -6,7 +6,7 @@
 ## Brief description 👤
 I am a Software Engineer with experience in Web dev (Full-Stack) and I am interested in Transhumanism.
 
-I love all the topics related to SE, CS, CE, Sci-Fi and FOSS, I've been coding for approximately 6 years by now. I looking forward to specialize in low-level programming and topics related to Bioengineering. Linux is my main and favorite OS.
+I love everything related to SE, CS, CE, Sci-Fi, and FOSS. I've been coding for approximately six years. I am looking to specialize in topics related to low-level programming and bioengineering. Linux is my main and favorite OS.
 
 You can talk to me in:
 - English
@@ -30,6 +30,7 @@ You can talk to me in:
 - Data analysis (3 months)
 - Mobile development (3 months)
 - Embedded software development (3 months)
+<!-- - Bioinformatics (6 months) -->
 
 
 ## Education 📖
@@ -37,7 +38,7 @@ You can talk to me in:
 - Undergraduate degree in Software Engineering (4 years)
 - Diploma course in Full-Stack Web development (6 months)
 - Diploma course in Artificial Intelligence (3 months)
-- Specialization in Bioinformatics (1 year)
+<!-- - Specialization in Bioinformatics (1 year) -->
 <!-- - Specialization course on Mathematics for Machine Learning (6 months) -->
 
 
